@@ -1,6 +1,48 @@
-site_name: Zack Gald Portfolio
+site_name: Zack Gald — Robotics Engineering Portfolio
+site_url: https://zackgald1.github.io/zgald
+repo_url: https://github.com/zackgald1/zgald
+edit_uri: edit/main/docs/
+
 theme:
   name: material
+  logo: images/favicon.png
+  favicon: images/favicon.png
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - content.code.copy
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/zack-gald-52a765253/
+    - icon: fontawesome/brands/github
+      link: https://github.com/zackgald1
 
 nav:
   - Home: index.md
+  - Projects:
+      - Overview: projects/index.md
+      - String Machine: projects/string-machine.md
+      - Object Tracker: projects/object-tracker.md
+      - Pick-and-Place: projects/pick-and-place.md
+  - Resume: resume.md
+  - Contact: contact.md
