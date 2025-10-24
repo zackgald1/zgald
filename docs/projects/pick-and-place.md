@@ -13,13 +13,25 @@ The code concludes with a loop that continuously sends the position variables un
 ---
 
 ### 🧠 Skills Used
-- **MATLAB Programming** – Image acquisition, background subtraction, and matrix calculations  
-- **Computer Vision** – Object detection using grayscale thresholding and centroid finding  
-- **Coordinate Transformations** – Converting pixel data to real-world coordinates using homogeneous matrices  
-- **Embedded Communication** – UART data transfer to a PSoC microcontroller  
-- **Robotics Integration** – Linking visual tracking to robotic control for real-time motion response
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; text-align: center; margin-top: 10px;">
+  <div style="background-color: #1e88e5; color: white; padding: 8px; border-radius: 8px;">MATLAB Programming</div>
+  <div style="background-color: #43a047; color: white; padding: 8px; border-radius: 8px;">Computer Vision</div>
+  <div style="background-color: #fdd835; color: black; padding: 8px; border-radius: 8px;">Coordinate Transformations</div>
+  <div style="background-color: #8e24aa; color: white; padding: 8px; border-radius: 8px;">UART Communication</div>
+  <div style="background-color: #e53935; color: white; padding: 8px; border-radius: 8px;">Robotics Integration</div>
+</div>
 
 ---
 
 ### 🎥 Demonstration Video
-*A short demo video will be embedded here showing the camera detecting an object, plotting its position, and sending coordinates to the robotic arm for movement.*
+
+<div style="text-align:center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/itHWlRx7RO8"  
+  title="Object Tracker Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
+  allowfullscreen></iframe>
+</div>
+
+
+You can also [download it here](Challenge455.m).
+
