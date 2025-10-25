@@ -3,6 +3,10 @@
 **Robotics Engineering (ASU, May 2026)** · Embedded systems, motion control, ROS2, PCB design
 
 
+<div style="text-align:center; margin:1em 0;">
+  <img src="banner.jpg" alt="ASU Robotics Banner" style="width:100%; border-radius:10px;">
+</div>
+
 > I build reliable mechatronic systems end-to-end—firmware, drivers, electronics, and the mechanical bits that make it move.
 
 ---
@@ -25,4 +29,9 @@ Python + OpenCV blob tracking that PID-drives a motor in real time over UART.
 
 ## What I'm Looking For
 A team building autonomy/robotics hardware where I can own real subsystems, ship fast, and keep learning.
+
+
+<div style="text-align:center; margin-top:2em;">
+  <em>“Innovation happens when curiosity meets craftsmanship.”</em>  
+</div>
 
