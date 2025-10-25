@@ -2,11 +2,6 @@
 
 **Robotics Engineering (ASU, May 2026)** · Embedded systems, motion control, ROS2, PCB design
 
-
-<div style="text-align:center; margin:1em 0;">
-  <img src="banner.jpg" alt="ASU Robotics Banner" style="width:100%; border-radius:10px;">
-</div>
-
 > I build reliable mechatronic systems end-to-end—firmware, drivers, electronics, and the mechanical bits that make it move.
 
 ---
