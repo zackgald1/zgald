@@ -9,26 +9,31 @@ theme:
   favicon: images/favicon.png
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
     - navigation.tabs
     - navigation.top
     - navigation.footer
-    - navigation.instant
     - content.code.copy
-    - toc.integrate
     - search.suggest
     - search.highlight
+    - toc.integrate
+extra_css:
+  - stylesheets/asu-theme.css
+
 
 extra:
   social:
