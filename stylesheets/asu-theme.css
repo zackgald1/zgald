@@ -1,0 +1,47 @@
+/* === ASU Theme Overrides === */
+
+/* Primary Maroon and Gold */
+:root {
+  --md-primary-fg-color: #8C1D40;  /* Maroon */
+  --md-primary-fg-color--light: #A33A58;
+  --md-primary-fg-color--dark: #6B132E;
+  --md-accent-fg-color: #FFC627;   /* Gold */
+  --md-accent-fg-color--light: #FFD34D;
+  --md-accent-fg-color--dark: #E6B800;
+}
+
+/* Navbar and footer */
+.md-header, .md-footer {
+  background-color: var(--md-primary-fg-color);
+  color: white;
+}
+
+/* Highlight gold hover on links and tabs */
+.md-tabs__link--active, .md-tabs__link:hover {
+  color: var(--md-accent-fg-color);
+}
+
+/* Active link color in nav */
+.md-nav__link--active {
+  color: var(--md-accent-fg-color);
+}
+
+/* Button styling */
+.md-button--primary {
+  background-color: var(--md-primary-fg-color);
+  color: white;
+}
+.md-button--primary:hover {
+  background-color: var(--md-accent-fg-color);
+  color: black;
+}
+
+/* Code blocks */
+.md-code, pre code {
+  border-left: 4px solid var(--md-accent-fg-color);
+}
+
+/* Page headings */
+h1, h2, h3, h4 {
+  color: var(--md-primary-fg-color);
+}
