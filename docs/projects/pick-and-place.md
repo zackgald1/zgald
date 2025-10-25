@@ -15,11 +15,26 @@ The code concludes with a loop that continuously sends the position variables un
 ### 🧠 Skills Used
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; text-align: center; margin-top: 10px;">
-  <div style="background-color: #1e88e5; color: white; padding: 8px; border-radius: 8px;">MATLAB Programming</div>
-  <div style="background-color: #43a047; color: white; padding: 8px; border-radius: 8px;">Computer Vision</div>
-  <div style="background-color: #fdd835; color: black; padding: 8px; border-radius: 8px;">Coordinate Transformations</div>
-  <div style="background-color: #8e24aa; color: white; padding: 8px; border-radius: 8px;">UART Communication</div>
-  <div style="background-color: #e53935; color: white; padding: 8px; border-radius: 8px;">Robotics Integration</div>
+
+  <div style="background-color: #8C1D40; color: white; padding: 8px; border-radius: 8px; font-weight: bold;">
+    MATLAB Programming
+  </div>
+  
+  <div style="background-color: #FFC627; color: #000; padding: 8px; border-radius: 8px; font-weight: bold;">
+    Computer Vision
+  </div>
+  
+  <div style="background-color: #8C1D40; color: white; padding: 8px; border-radius: 8px; font-weight: bold;">
+    Coordinate Transformations
+  </div>
+  
+  <div style="background-color: #FFC627; color: #000; padding: 8px; border-radius: 8px; font-weight: bold;">
+    UART Communication
+  </div>
+  
+  <div style="background-color: #8C1D40; color: white; padding: 8px; border-radius: 8px; font-weight: bold;">
+    Robotics Integration
+  </div>
 </div>
 
 ---
@@ -31,6 +46,7 @@ The code concludes with a loop that continuously sends the position variables un
   title="Object Tracker Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
   allowfullscreen></iframe>
 </div>
+
 
 
 You can also [download it here](Challenge455.m).
