@@ -2,11 +2,6 @@
 
 **Robotics Engineering (ASU, May 2026)** · Embedded systems, motion control, ROS2, PCB design
 
-<div style="margin: 1rem 0;">
-<a href="mailto:zack.gald@gmail.com">📧 Email</a> ·
-<a href="https://www.linkedin.com/in/zack-gald-52a765253/">🔗 LinkedIn</a> ·
-<a href="https://github.com/zackgald1">💻 GitHub</a>
-</div>
 
 > I build reliable mechatronic systems end-to-end—firmware, drivers, electronics, and the mechanical bits that make it move.
 
