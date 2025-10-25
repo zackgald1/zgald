@@ -5,8 +5,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-logo: logo.png
-favicon: logo.png
+  logo: logo.png
+  favicon: logo.png
   palette:
     - scheme: default
       primary: custom
