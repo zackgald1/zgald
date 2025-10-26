@@ -33,6 +33,7 @@ theme:
     - toc.integrate
 extra_css:
   - stylesheets/asu-theme.css
+  - stylesheets/extra.css
 
 
 extra:
