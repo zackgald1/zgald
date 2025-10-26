@@ -1,0 +1,69 @@
+/* Timeline container */
+.timeline {
+  position: relative;
+  margin: 1.5rem 0 3rem 0;
+  padding-left: 1rem;
+}
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 12px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--md-primary-fg-color, #b71c1c);
+  opacity: .35;
+}
+
+/* Each item */
+.tl-item {
+  position: relative;
+  margin: 0 0 1.5rem 1.5rem;
+}
+.tl-dot {
+  position: absolute;
+  left: -1.5rem;
+  top: .35rem;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--md-primary-fg-color, #b71c1c);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--md-primary-fg-color, #b71c1c) 20%, transparent);
+}
+.tl-date {
+  font-weight: 600;
+  font-size: .9rem;
+  opacity: .8;
+  margin-bottom: .25rem;
+}
+.tl-card {
+  background: var(--md-default-bg-color);
+  border: 1px solid color-mix(in srgb, var(--md-primary-fg-color, #b71c1c) 20%, transparent);
+  border-radius: 12px;
+  padding: .9rem 1rem;
+  box-shadow: var(--md-shadow-z1);
+}
+.tl-card h3 {
+  margin: 0 0 .35rem 0;
+  font-size: 1.05rem;
+}
+.tl-card ul { margin: .25rem 0 .5rem 1rem; }
+.org { opacity: .9; }
+
+/* Skill chips */
+.chips { display: flex; flex-wrap: wrap; gap: .4rem; }
+.chips > span {
+  display: inline-block;
+  padding: .18rem .5rem;
+  border-radius: 999px;
+  font-size: .78rem;
+  border: 1px solid color-mix(in srgb, var(--md-primary-fg-color, #b71c1c) 30%, transparent);
+  background: color-mix(in srgb, var(--md-primary-fg-color, #b71c1c) 6%, transparent);
+}
+
+/* Mobile tweaks */
+@media (max-width: 600px) {
+  .timeline { padding-left: .75rem; }
+  .tl-item { margin-left: 1.25rem; }
+  .tl-dot { left: -1.25rem; }
+}
