@@ -1,7 +1,7 @@
 # Zack Gald
 
 **B.S.E. Robotics Engineering, Arizona State University (May 2026)**  
-*Embedded Systems · Motion Control · PCB Design · Autonomous Robotics*
+*Embedded Systems · Motion Control · ROS2 · PCB Design · Autonomous Robotics*
 
 > I design and build reliable mechatronic systems—from firmware and drivers to the electronics and mechanics that make them move.  
 > I thrive at the intersection of **hardware, software, and control**.
@@ -11,12 +11,14 @@
 ## Why I’m a Great Fit
 
 I’m a **hands-on engineer** who learns by building.  
-From motor drivers and PCBs to camera-based feedback and full system integration, I take ideas from concept to prototype fast and clean.  
+From motor drivers and PCBs to camera-based feedback and full system integration, I take ideas from concept to prototype fast and clean.
 
-I’m looking to join a team where I can:
-- **Own real subsystems** in robotics or autonomy hardware  
-- **Ship early and iterate**, balancing precision with speed  
-- Contribute to **hardware–software integration**, embedded firmware, and motion control  
+I’m a great fit because I:
+
+- Am a **hard worker** who takes ownership of challenges and sees them through  
+- Learn **quickly** and adapt easily to new tools, systems, and technologies  
+- Communicate clearly across teams and disciplines  
+- Bring **leadership** and initiative to every project I’m part of  
 
 ---
 
@@ -34,12 +36,15 @@ I’m looking to join a team where I can:
 
 ## What I’m Looking For
 
-An engineering role focused on **autonomous robotics, motion systems, or embedded hardware** —  
-where I can apply my technical depth, design clean systems, and keep growing alongside passionate engineers.
+I’m seeking an engineering opportunity where I can:
+
+- Contribute to **autonomous robotics, motion systems, or embedded hardware** projects  
+- Apply my technical skills to **design, build, and ship** reliable systems  
+- Continue to **learn and grow**, both as an **engineer** and as a **person**  
+- Help **shape the future of the world** through innovative technology  
 
 ---
 
 <div style="text-align:center; margin-top:2em;">
   <em>“Innovation happens when curiosity meets craftsmanship.”</em>  
 </div>
-
