@@ -42,7 +42,7 @@ The code concludes with a loop that continuously sends the position variables un
 ### 🎥 Demonstration Video
 
 <div style="text-align:center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/itHWlRx7RO8"  
+  <iframe width="560" height="315" src="[https://www.youtube.com/embed/itHWlRx7RO8](https://youtube.com/shorts/4AXSAaTqBM4)"  
   title="Object Tracker Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
   allowfullscreen></iframe>
 </div>
