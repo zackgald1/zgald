@@ -1,30 +1,43 @@
 # Zack Gald
 
-**Robotics Engineering (ASU, May 2026)** · Embedded systems, motion control, ROS2, PCB design
+**B.S.E. Robotics Engineering, Arizona State University (May 2026)**  
+*Embedded Systems · Motion Control · ROS2 · PCB Design · Autonomous Robotics*
 
-> I build reliable mechatronic systems end-to-end—firmware, drivers, electronics, and the mechanical bits that make it move.
-
----
-
-## Featured Projects
-
-### String Machine
-Stepper-motor system that visualizes human pitch using string waves; PIC firmware (SPI), TMC drivers, custom PCB, UART messaging.  
-➡️ [Read more](projects/string-machine.md)
-
-### Object Tracker
-Python + OpenCV blob tracking that PID-drives a motor in real time over UART.  
-➡️ [Read more](projects/object-tracker.md)
-
-### Pick-and-Place Robot
-3-DOF manipulator with webcam detection, MATLAB IK, and PSoC control.  
-➡️ [Read more](projects/pick-and-place.md)
+> I design and build reliable mechatronic systems—from firmware and drivers to the electronics and mechanics that make them move.  
+> I thrive at the intersection of **hardware, software, and control**.
 
 ---
 
-## What I'm Looking For
-A team building autonomy/robotics hardware where I can own real subsystems, ship fast, and keep learning.
+## Why I’m a Great Fit
 
+I’m a **hands-on engineer** who learns by building.  
+From motor drivers and PCBs to camera-based feedback and full system integration, I take ideas from concept to prototype fast and clean.  
+
+I’m looking to join a team where I can:
+- **Own real subsystems** in robotics or autonomy hardware  
+- **Ship early and iterate**, balancing precision with speed  
+- Contribute to **hardware–software integration**, embedded firmware, and motion control  
+
+---
+
+## Core Skills
+
+| Category | Skills |
+|-----------|--------|
+| **Embedded Systems** | C/C++, MicroPython, UART/SPI/I²C, interrupt-driven firmware |
+| **Robotics & Control** | ROS2, Gazebo, PID tuning, motion planning, actuator control |
+| **Hardware Design** | PCB layout (OrCAD/Allegro), power distribution, signal routing |
+| **Software Tools** | MATLAB, Git/GitHub, Linux, VSCode, MPLAB X |
+| **Prototyping & Debug** | Logic analyzer, oscilloscope, real-time data visualization |
+
+---
+
+## What I’m Looking For
+
+An engineering role focused on **autonomous robotics, motion systems, or embedded hardware** —  
+where I can apply my technical depth, design clean systems, and keep growing alongside passionate engineers.
+
+---
 
 <div style="text-align:center; margin-top:2em;">
   <em>“Innovation happens when curiosity meets craftsmanship.”</em>  
