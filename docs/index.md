@@ -1,7 +1,7 @@
 # Zack Gald
 
 **B.S.E. Robotics Engineering, Arizona State University (May 2026)**  
-*Embedded Systems · Motion Control · ROS2 · PCB Design · Autonomous Robotics*
+*Embedded Systems · Motion Control · PCB Design · Autonomous Robotics*
 
 > I design and build reliable mechatronic systems—from firmware and drivers to the electronics and mechanics that make them move.  
 > I thrive at the intersection of **hardware, software, and control**.
