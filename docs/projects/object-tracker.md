@@ -51,4 +51,13 @@ This project combines computer vision and embedded motor control to track a red 
 
 ---
 
+## 🔽 Download the Code
+
+You can view or download the full source files directly from this repository:
+
+- [**Python Vision Control** — `camerafinalv7.py`](./camerafinalv7%20(1).py){target=_blank}
+- [**Embedded Firmware** — `final456.c`](./final456%20(1).c){target=_blank}
+
+---
+
 *Next step:* Integrate IMU feedback or object distance measurement for full closed-loop motion stabilization.
