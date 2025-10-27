@@ -1,6 +1,19 @@
 # Object Tracker
 
-[🎥 Watch the Demo](https://youtube.com/shorts/qia1dABN3dE)
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; margin-top:1em; margin-bottom:1.5em;">
+  <iframe 
+    src="https://www.youtube.com/embed/qia1dABN3dE" 
+    title="Object Tracker Demo"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;">
+  </iframe>
+</div>
+
+<p style="text-align:center; margin-top:-1em; font-style:italic; color:gray;">
+  Demonstration of real-time object tracking and PID-based motor control.
+</p>
 
 ---
 
