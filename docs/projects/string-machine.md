@@ -26,6 +26,18 @@ This system integrates **embedded motor control**, **SPI communication**, and **
 
 ---
 
+## Visuals
+
+### PCB Layout
+![String Machine PCB Layout](./IMG_5938.jpg){ width="650" loading=lazy }
+*Custom PCB designed in Allegro with labeled connectors for the motor, decoupling capacitors, and clean trace routing.*
+
+### Physical Prototype Concept
+![String Machine Prototype](./IMG_6032.jpg){ width="650" loading=lazy }
+*Early mock-up showing the string-motor assembly and optical viewing setup for visible standing waves.*
+
+---
+
 ## How It Works
 
 1. **Frequency Command Input**  
